@@ -1,6 +1,6 @@
 # Analyzing-Employeers-Salary-Using-PySpark
 
- The project's objective is to examine data pertaining to 100,000 000 employees, with an emphasis on EMployseer's Salary in particular. To analyze the data and extract meaningful information using SQL queries, the Pyspark framework will be used in particular. Finally, the Gradient Boosted Tree (GBT) algorithm is trained using Pyspark MLlib to perform Feature Engineering and estimate employer salary.
+ The project's objective is to examine data pertaining to 100,000,000 employees, with an emphasis on EMployseer's Salary in particular. To analyze the data and extract meaningful information using SQL queries, the Pyspark framework will be used in particular. Finally, the Gradient Boosted Tree (GBT) algorithm is trained using Pyspark MLlib to perform Feature Engineering and estimate employer salary.
 
  ### Results 
 
